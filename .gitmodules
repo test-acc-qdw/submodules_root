@@ -7,3 +7,12 @@
 [submodule "submodules_root"]
 	path = submodules_root
 	url = git@github.com:test-acc-qdw/submodules_root.git
+[submodule "nested/submodules_1"]
+	path = nested/submodules_1
+	url = git@github.com:test-acc-qdw/submodules_1.git
+[submodule "nested with space/submodules_1"]
+	path = nested with space/submodules_1
+	url = git@github.com:test-acc-qdw/submodules_1.git
+[submodule "nested with space and ()))(())(())()()()())))/submodules_1"]
+	path = nested with space and ()))(())(())()()()())))/submodules_1
+	url = git@github.com:test-acc-qdw/submodules_1.git
